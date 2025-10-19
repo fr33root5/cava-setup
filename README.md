@@ -89,8 +89,8 @@ matugen image /path/to/your/wallpaper.jpg
 
 ## 🎮 Usage
 
-- **Left click on left Cava** → Opens top visualization (bars going down)
-- **Left click on right Cava** → Opens bottom visualization (bars going up)  
+- **Left click on left Cava** → Opens top visualization (bars going up)
+- **Left click on right Cava** → Opens bottom visualization (bars going down)  
 - **Click again** → Closes the visualization
 - **Change wallpaper** → Colors automatically update
 
@@ -147,4 +147,7 @@ MIT License - Feel free to use and modify!
 
 ## 🙏 Credits
 
-Created through many iterations and debugging sessions 😅
+- Built for and tested with
+- [ML4W Dotfiles](https://github.com/mylinuxforwork/dotfiles) by Stephan Raabe
+- All Cava functionality (Waybar visualizations and clickable windows) created through many iterations and debugging sessions 😅
+
