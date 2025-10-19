@@ -138,7 +138,6 @@ matugen image $(swww query | grep -oP 'image: \K.*')
 ## 📝 Notes
 
 - This setup uses Kitty terminal. If you use a different terminal, adjust the scripts accordingly.
-- The small Waybar visualizations require ML4W's `cava-waybar.sh` script. If you don't have it, replace with static icons.
 - Window positioning works best with floating windows in Hyprland.
 
 ## 📄 License
