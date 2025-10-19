@@ -1,0 +1,24 @@
+// Add these modules to your ~/.config/waybar/modules.json
+
+"custom/cava-left": {
+    "exec": "~/.config/ml4w/scripts/cava-waybar.sh",
+    "format": "{}",
+    "return-type": "",
+    "interval": 0,
+    "escape": false,
+    "tooltip": false,
+    "on-click": "~/.config/waybar/scripts/cava-opener.sh top"
+},
+
+"custom/cava-right": {
+    "exec": "~/.config/ml4w/scripts/cava-waybar.sh",
+    "format": "{}",
+    "return-type": "",
+    "interval": 0,
+    "escape": false,
+    "tooltip": false,
+    "on-click": "~/.config/waybar/scripts/cava-opener.sh bottom"
+}
+
+// Note: If you don't have ML4W's cava-waybar.sh, replace "exec" with a static icon:
+// "format": " 🎵 "

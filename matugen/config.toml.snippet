@@ -1,0 +1,11 @@
+# Add these templates to your ~/.config/matugen/config.toml
+
+[templates.cava]
+input_path = '~/.config/matugen/templates/cava_bottom.conf'
+output_path = '~/.config/cava/config_bottom'
+post_hook = '~/.config/waybar/scripts/restart-cava.sh'
+
+[templates.cava_top]
+input_path = '~/.config/matugen/templates/cava_top.conf'
+output_path = '~/.config/cava/config_top'
+post_hook = '~/.config/waybar/scripts/restart-cava-top.sh'
