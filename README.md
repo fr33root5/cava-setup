@@ -150,3 +150,11 @@ MIT License - Feel free to use and modify!
 - [ML4W Dotfiles](https://github.com/mylinuxforwork/dotfiles) by Stephan Raabe
 - All Cava functionality (Waybar visualizations and clickable windows) created through many iterations and debugging sessions 😅
 
+## ⚠️ Disclaimer
+
+This is my first shared project and I'm not a professional developer! 🎓
+
+The setup works great on my CachyOS/Hyprland system. If it doesn't work on yours, you might need to do some tweaking - but that's part of the fun of Linux, right? Good luck! 🍀
+
+
+
